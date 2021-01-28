@@ -4,7 +4,7 @@
    font-weight: normal;
 }
 body {
-    padding: 0;
+    padding: 1px;
     margin: 0;
     background: linear-gradient(to right, #5f5d5f, rgb(0, 0, 0));
 }
